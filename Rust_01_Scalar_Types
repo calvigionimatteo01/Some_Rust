@@ -1,0 +1,23 @@
+fn main() {
+
+let u: u8 = 7;
+println!("This is an unsigned8: {}", u);
+
+let i: i32 = 6677;
+println!("This is an i32: {}", i);
+
+let f: f32 = 3.1415;
+println!("This is an f32: {}", f);
+
+let carattere: char = '♤';
+println!("This is a char: {}", carattere);
+
+let signal: bool = true;
+println!("This is a bool: {}", signal);
+
+let x: () = ();
+/*
+This is the Unit Type. It is often used as fuction output as a parameter.
+*/
+
+}
