@@ -1,0 +1,18 @@
+fn main() {
+
+  let a: u64 = 12000;
+  println!("{}", a);
+
+  let b: i32 = -32;
+  println!("{}", b);
+
+  let c: f64 = 3.14159269;
+  println!("{}", c);
+
+  let d: bool = true;
+  println!("{}", d);
+
+  let e: char = '@';
+  println!("{}", e);
+
+  }
