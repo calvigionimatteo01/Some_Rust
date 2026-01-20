@@ -1,1 +1,1 @@
-Io che sto imparando il Linguaggio Rust, non troppo velocemente. 
+It's me learning (slowly) the RUST programming language. 
